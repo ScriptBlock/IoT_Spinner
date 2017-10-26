@@ -1,16 +1,16 @@
-#Splunk IoT Fidget Spinner
+# Splunk IoT Fidget Spinner
 
 - Models - Here's the sketchup and STL files if you want to print your own
 - LUA - All of the scripts to make the spinner work
 - Wiring - Fritzing diagram for wiring it up.
 
 - Bill Of materials
-*	ESP
-*	Battery
-*	Hall effect
-*	switch
-*	weights
-*	bearings
+  * ESP
+  * Battery
+  * Hall effect
+  * switch
+  * weights
+  * bearings
 
 - NodeMCU instructions
 *	useful tools
