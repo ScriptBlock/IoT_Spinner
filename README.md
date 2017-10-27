@@ -5,34 +5,34 @@
 - Wiring - Fritzing diagram for wiring it up.
 
 - Bill Of materials
-  * ESP
-  * Battery
-  * Hall effect
+  * ESP - Adafruit Huzzah ESP8266 - https://www.adafruit.com/product/2821
+  * Battery - 500mAh LiPo
+  * Hall effect - https://www.adafruit.com/product/158
   * switch
   * weights
   * bearings
 
 - NodeMCU instructions
-*	useful tools
-*	how to flash
-*	order of upload
+  * useful tools
+    * ESPlorer & esptool
+    * how to flash
+    * order of upload
 
 - Splunk Configurations
-*	app
-*	http event collector links
-*	https://www.splunknova.com/login
-	
+  * app (todo)
+  * http event collector links (todo)
+  * https://www.splunknova.com/login
 
 - Resources
-*	nodemcu stuff
-*	picture of wired outside of spinner
-*	picture of wired inside of spinner
+  * nodemcu stuff (todo)
+  * picture of wired outside of spinner (todo)
+  * picture of wired inside of spinner (todo)
 
 
 - Areas for improvement
-*	lip for top alignment
-*	more explicit stop for bearing
-*	lights indicating power/wifi/error/etc
-*	move hall effect off of pin2
+  * lip for top alignment
+  * more explicit stop for bearing
+  * lights indicating power/wifi/error/etc
+  * move hall effect off of pin2
 
 
